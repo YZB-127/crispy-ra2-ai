@@ -1,0 +1,3 @@
+rules.ini -text
+*.md text
+*.py text
